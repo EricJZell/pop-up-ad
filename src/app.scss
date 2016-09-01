@@ -1,0 +1,27 @@
+/* Your styling here */
+div .main-div {
+  background-color: magenta;
+  border-radius: 20px;
+  border: solid 2px black;
+  color: yellow;
+  margin: 30px 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.close-icon {
+  font-size: 2em;
+  margin: 10px;
+  float: right;
+  color: rgba(black, .3)
+}
+
+.button {
+  color: magenta;
+  background-color: mediumturquoise;
+  border: solid 2px black;
+}
+
+.input-text {
+  background-color: yellow;
+}
