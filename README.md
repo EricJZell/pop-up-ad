@@ -1,5 +1,6 @@
 This is an example of a pop-up add built using React Stateless components.
 The final product of this code is shown below:
+
 ![Final_product][http://i.imgur.com/2Fn2wCZ.png]
 
 ## Project Description
