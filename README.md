@@ -1,3 +1,6 @@
+
+![Final_product][http://i.imgur.com/2Fn2wCZ.png]
+
 You have sold your soul by taking a job to create a pop-up ad in React.
 The pop-up ad design is the following:
 
